@@ -1,0 +1,464 @@
+2025-06-05 18:57:56 | INFO | main:main:38 - Starting bot...
+2025-06-05 18:57:56 | INFO | main:on_startup:25 - Initializing database...
+2025-06-05 18:57:56 | INFO | main:on_startup:27 - Database initialized successfully
+2025-06-05 18:57:56 | INFO | main:on_startup:30 - Starting gift parsing loop...
+2025-06-05 18:57:59 | INFO | logger:emit:13 - Start polling
+2025-06-05 18:57:59 | INFO | logger:emit:13 - Run polling for bot @GatesAutoBuyerBot id=7309807688 - 'Gates Gift-Buyer'
+2025-06-05 18:57:59 | INFO | gift_parser:start_gift_parsing_loop:135 - Added new gift: 5170145012310081615
+2025-06-05 18:57:59 | INFO | gift_parser:start_gift_parsing_loop:135 - Added new gift: 5170233102089322756
+2025-06-05 18:57:59 | INFO | gift_parser:start_gift_parsing_loop:135 - Added new gift: 5170250947678437525
+2025-06-05 18:57:59 | INFO | gift_parser:start_gift_parsing_loop:135 - Added new gift: 5168103777563050263
+2025-06-05 18:57:59 | INFO | gift_parser:start_gift_parsing_loop:135 - Added new gift: 5170144170496491616
+2025-06-05 18:57:59 | INFO | gift_parser:start_gift_parsing_loop:135 - Added new gift: 5170314324215857265
+2025-06-05 18:57:59 | INFO | gift_parser:start_gift_parsing_loop:135 - Added new gift: 5170564780938756245
+2025-06-05 18:57:59 | INFO | gift_parser:start_gift_parsing_loop:135 - Added new gift: 5168043875654172773
+2025-06-05 18:57:59 | INFO | gift_parser:start_gift_parsing_loop:135 - Added new gift: 5170690322832818290
+2025-06-05 18:57:59 | INFO | gift_parser:start_gift_parsing_loop:135 - Added new gift: 5170521118301225164
+2025-06-05 18:57:59 | INFO | gift_parser:start_gift_parsing_loop:135 - Added new gift: 6028601630662853006
+2025-06-05 18:57:59 | INFO | gift_parser:start_gift_parsing_loop:135 - Added new gift: 5782984811920491178
+2025-06-05 18:57:59 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:58:02 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79868, total=500000.
+2025-06-05 18:58:02 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:58:06 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79866, total=500000.
+2025-06-05 18:58:06 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:58:09 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79861, total=500000.
+2025-06-05 18:58:09 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:58:12 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79866, total=500000.
+2025-06-05 18:58:12 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:58:15 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:58:19 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79861, total=500000.
+2025-06-05 18:58:19 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:58:22 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:58:25 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:58:29 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79866, total=500000.
+2025-06-05 18:58:29 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:58:32 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79861, total=500000.
+2025-06-05 18:58:32 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:58:36 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:58:39 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79862, total=500000.
+2025-06-05 18:58:39 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:58:42 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79860, total=500000.
+2025-06-05 18:58:42 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:58:46 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:58:49 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79861, total=500000.
+2025-06-05 18:58:49 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:58:52 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79860, total=500000.
+2025-06-05 18:58:52 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:58:56 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79861, total=500000.
+2025-06-05 18:58:56 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:58:59 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79860, total=500000.
+2025-06-05 18:58:59 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:59:02 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79861, total=500000.
+2025-06-05 18:59:02 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:59:05 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:59:09 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:59:12 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79858, total=500000.
+2025-06-05 18:59:12 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:59:15 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79860, total=500000.
+2025-06-05 18:59:15 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:59:19 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:59:22 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79858, total=500000.
+2025-06-05 18:59:22 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:59:25 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:59:29 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:59:32 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:59:35 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79857, total=500000.
+2025-06-05 18:59:35 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:59:38 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79858, total=500000.
+2025-06-05 18:59:38 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:59:42 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:59:45 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79857, total=500000.
+2025-06-05 18:59:45 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:59:48 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79858, total=500000.
+2025-06-05 18:59:48 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:59:52 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:59:55 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 18:59:58 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79857, total=500000.
+2025-06-05 18:59:58 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:00:02 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:00:05 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:00:09 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:00:12 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79856, total=500000.
+2025-06-05 19:00:12 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:00:15 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79857, total=500000.
+2025-06-05 19:00:15 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:00:19 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:00:22 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:00:22 | INFO | logger:emit:13 - Update id=701457784 is handled. Duration 322 ms by bot id=7309807688
+2025-06-05 19:00:25 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79856, total=500000.
+2025-06-05 19:00:25 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:00:25 | INFO | logger:emit:13 - Update id=701457785 is handled. Duration 84 ms by bot id=7309807688
+2025-06-05 19:00:29 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79857, total=500000.
+2025-06-05 19:00:29 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:00:29 | INFO | logger:emit:13 - Update id=701457786 is handled. Duration 121 ms by bot id=7309807688
+2025-06-05 19:00:32 | INFO | balance:process_deposit_input:176 - Creating deposit for amount 5 from user 995515020
+2025-06-05 19:00:32 | INFO | logger:emit:13 - Update id=701457787 is handled. Duration 101 ms by bot id=7309807688
+2025-06-05 19:00:32 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79855, total=500000.
+2025-06-05 19:00:32 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:00:35 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79857, total=500000.
+2025-06-05 19:00:35 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:00:39 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79855, total=500000.
+2025-06-05 19:00:39 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:00:42 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79856, total=500000.
+2025-06-05 19:00:42 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:00:45 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79855, total=500000.
+2025-06-05 19:00:45 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:00:49 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79856, total=500000.
+2025-06-05 19:00:49 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:00:52 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79855, total=500000.
+2025-06-05 19:00:52 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:00:55 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:00:59 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:01:02 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:01:06 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:01:09 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:01:12 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:01:15 | INFO | logger:emit:13 - Update id=701457788 is handled. Duration 98 ms by bot id=7309807688
+2025-06-05 19:01:15 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:01:19 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:01:22 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:01:25 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:01:29 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:01:32 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:01:33 | WARNING | logger:emit:13 - Received SIGINT signal
+2025-06-05 19:01:33 | INFO | logger:emit:13 - Polling stopped for bot @GatesAutoBuyerBot id=7309807688 - 'Gates Gift-Buyer'
+2025-06-05 19:01:33 | INFO | logger:emit:13 - Polling stopped
+2025-06-05 19:02:22 | INFO | main:main:38 - Starting bot...
+2025-06-05 19:02:22 | INFO | main:on_startup:25 - Initializing database...
+2025-06-05 19:02:22 | INFO | main:on_startup:27 - Database initialized successfully
+2025-06-05 19:02:22 | INFO | main:on_startup:30 - Starting gift parsing loop...
+2025-06-05 19:02:22 | INFO | logger:emit:13 - Start polling
+2025-06-05 19:02:22 | INFO | logger:emit:13 - Run polling for bot @GatesAutoBuyerBot id=7309807688 - 'Gates Gift-Buyer'
+2025-06-05 19:02:22 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79851, total=500000.
+2025-06-05 19:02:22 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:02:26 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79853, total=500000.
+2025-06-05 19:02:26 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:02:28 | INFO | logger:emit:13 - Update id=701457789 is handled. Duration 211 ms by bot id=7309807688
+2025-06-05 19:02:29 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79851, total=500000.
+2025-06-05 19:02:29 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:02:30 | INFO | logger:emit:13 - Update id=701457790 is not handled. Duration 2 ms by bot id=7309807688
+2025-06-05 19:02:32 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:02:34 | INFO | logger:emit:13 - Update id=701457791 is not handled. Duration 1 ms by bot id=7309807688
+2025-06-05 19:02:36 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79852, total=500000.
+2025-06-05 19:02:36 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:02:39 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79853, total=500000.
+2025-06-05 19:02:39 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:02:40 | WARNING | logger:emit:13 - Received SIGINT signal
+2025-06-05 19:02:40 | INFO | logger:emit:13 - Polling stopped for bot @GatesAutoBuyerBot id=7309807688 - 'Gates Gift-Buyer'
+2025-06-05 19:02:40 | INFO | logger:emit:13 - Polling stopped
+2025-06-05 19:03:03 | INFO | main:main:38 - Starting bot...
+2025-06-05 19:03:03 | INFO | main:on_startup:25 - Initializing database...
+2025-06-05 19:03:03 | INFO | main:on_startup:27 - Database initialized successfully
+2025-06-05 19:03:03 | INFO | main:on_startup:30 - Starting gift parsing loop...
+2025-06-05 19:03:03 | INFO | logger:emit:13 - Start polling
+2025-06-05 19:03:03 | INFO | logger:emit:13 - Run polling for bot @GatesAutoBuyerBot id=7309807688 - 'Gates Gift-Buyer'
+2025-06-05 19:03:04 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79848, total=500000.
+2025-06-05 19:03:04 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:03:07 | INFO | logger:emit:13 - Update id=701457793 is handled. Duration 227 ms by bot id=7309807688
+2025-06-05 19:03:08 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:03:09 | INFO | logger:emit:13 - Update id=701457794 is handled. Duration 600 ms by bot id=7309807688
+2025-06-05 19:03:11 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:03:14 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:03:18 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:03:21 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:03:24 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:03:28 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:03:31 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:03:34 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79846, total=500000.
+2025-06-05 19:03:34 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:03:37 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79848, total=500000.
+2025-06-05 19:03:37 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:03:41 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:03:44 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:03:47 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:03:51 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:03:51 | WARNING | logger:emit:13 - Received SIGINT signal
+2025-06-05 19:03:51 | INFO | logger:emit:13 - Polling stopped for bot @GatesAutoBuyerBot id=7309807688 - 'Gates Gift-Buyer'
+2025-06-05 19:03:51 | INFO | logger:emit:13 - Polling stopped
+2025-06-05 19:09:43 | INFO | main:main:38 - Starting bot...
+2025-06-05 19:09:43 | INFO | main:on_startup:25 - Initializing database...
+2025-06-05 19:09:43 | INFO | main:on_startup:27 - Database initialized successfully
+2025-06-05 19:09:43 | INFO | main:on_startup:30 - Starting gift parsing loop...
+2025-06-05 19:09:43 | INFO | logger:emit:13 - Start polling
+2025-06-05 19:09:43 | INFO | logger:emit:13 - Run polling for bot @GatesAutoBuyerBot id=7309807688 - 'Gates Gift-Buyer'
+2025-06-05 19:09:44 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79818, total=500000.
+2025-06-05 19:09:44 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:09:47 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79815, total=500000.
+2025-06-05 19:09:47 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:09:50 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79811, total=500000.
+2025-06-05 19:09:50 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:09:51 | INFO | logger:emit:13 - Update id=701457795 is handled. Duration 229 ms by bot id=7309807688
+2025-06-05 19:09:53 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79818, total=500000.
+2025-06-05 19:09:53 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:09:57 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79815, total=500000.
+2025-06-05 19:09:57 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:10:00 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79809, total=500000.
+2025-06-05 19:10:00 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:10:03 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:10:05 | INFO | logger:emit:13 - Update id=701457796 is handled. Duration 115 ms by bot id=7309807688
+2025-06-05 19:10:07 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:10:10 | INFO | logger:emit:13 - Update id=701457797 is handled. Duration 114 ms by bot id=7309807688
+2025-06-05 19:10:10 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:10:13 | INFO | balance:process_deposit_input:176 - Creating deposit for amount 15 from user 995515020
+2025-06-05 19:10:13 | INFO | logger:emit:13 - Update id=701457798 is handled. Duration 83 ms by bot id=7309807688
+2025-06-05 19:10:13 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:10:17 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:10:20 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:10:23 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:10:24 | INFO | logger:emit:13 - Update id=701457799 is handled. Duration 58 ms by bot id=7309807688
+2025-06-05 19:10:24 | INFO | payment_handler:handle_successful_payment:34 - Successful payment: currency='XTR' total_amount=15 invoice_payload='deposit_15_to_995515020' telegram_payment_charge_id='stxQ90fJZp9iR243eg9wqoscYoIZxbMMbINi8HcWW18OZ0sJwk4CiKCCZ8Z71UkQ2CyuYTVgL2czfUyQdYuf0rUWukuzaDJwbvVeD4znYFz1GE' provider_payment_charge_id='995515020_161' subscription_expiration_date=None is_recurring=None is_first_recurring=None shipping_option_id=None order_info=None
+2025-06-05 19:10:24 | INFO | logger:emit:13 - Update id=701457800 is handled. Duration 106 ms by bot id=7309807688
+2025-06-05 19:10:26 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:10:30 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:10:33 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:10:33 | INFO | logger:emit:13 - Update id=701457801 is handled. Duration 169 ms by bot id=7309807688
+2025-06-05 19:10:36 | INFO | logger:emit:13 - Update id=701457802 is handled. Duration 139 ms by bot id=7309807688
+2025-06-05 19:10:36 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:10:37 | INFO | logger:emit:13 - Update id=701457803 is handled. Duration 656 ms by bot id=7309807688
+2025-06-05 19:10:39 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:10:43 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:10:46 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:10:49 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:10:52 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:10:56 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:10:59 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:11:02 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:11:06 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:11:09 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79808, total=500000.
+2025-06-05 19:11:09 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:11:12 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:11:15 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:11:19 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:11:22 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79809, total=500000.
+2025-06-05 19:11:22 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:11:25 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79805, total=500000.
+2025-06-05 19:11:25 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:11:29 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79808, total=500000.
+2025-06-05 19:11:29 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:11:32 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:11:35 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:11:38 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79804, total=500000.
+2025-06-05 19:11:38 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:11:42 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79808, total=500000.
+2025-06-05 19:11:42 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:11:45 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79804, total=500000.
+2025-06-05 19:11:45 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:11:48 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:11:52 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:11:55 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:11:58 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:12:01 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79805, total=500000.
+2025-06-05 19:12:01 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:12:05 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79801, total=500000.
+2025-06-05 19:12:05 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:12:08 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79804, total=500000.
+2025-06-05 19:12:08 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:12:10 | INFO | logger:emit:13 - Update id=701457804 is handled. Duration 118 ms by bot id=7309807688
+2025-06-05 19:12:11 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79801, total=500000.
+2025-06-05 19:12:11 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:12:15 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79797, total=500000.
+2025-06-05 19:12:15 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:12:18 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79804, total=500000.
+2025-06-05 19:12:18 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:12:21 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:12:25 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79797, total=500000.
+2025-06-05 19:12:25 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:12:28 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79795, total=500000.
+2025-06-05 19:12:28 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:12:31 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:12:34 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:12:38 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79797, total=500000.
+2025-06-05 19:12:38 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:12:41 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79791, total=500000.
+2025-06-05 19:12:41 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:12:45 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79795, total=500000.
+2025-06-05 19:12:45 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:12:48 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:12:51 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:12:54 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79797, total=500000.
+2025-06-05 19:12:54 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:12:58 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79791, total=500000.
+2025-06-05 19:12:58 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:13:01 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79795, total=500000.
+2025-06-05 19:13:01 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:13:04 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:13:08 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79791, total=500000.
+2025-06-05 19:13:08 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:13:11 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79794, total=500000.
+2025-06-05 19:13:11 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:13:14 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79795, total=500000.
+2025-06-05 19:13:14 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:13:17 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:13:21 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79791, total=500000.
+2025-06-05 19:13:21 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:13:24 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79794, total=500000.
+2025-06-05 19:13:24 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:13:27 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79791, total=500000.
+2025-06-05 19:13:27 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:13:30 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:13:34 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79790, total=500000.
+2025-06-05 19:13:34 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:13:37 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:13:40 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79791, total=500000.
+2025-06-05 19:13:40 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:13:43 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:13:47 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79790, total=500000.
+2025-06-05 19:13:47 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:13:50 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79791, total=500000.
+2025-06-05 19:13:50 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:13:53 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:13:56 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79790, total=500000.
+2025-06-05 19:13:56 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:14:00 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:14:03 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:14:06 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79791, total=500000.
+2025-06-05 19:14:06 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:14:09 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:14:13 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79790, total=500000.
+2025-06-05 19:14:13 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:14:16 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:14:19 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:14:22 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:14:26 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:14:29 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:14:32 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:14:36 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79789, total=500000.
+2025-06-05 19:14:36 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:14:39 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79790, total=500000.
+2025-06-05 19:14:39 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:14:42 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:14:45 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:14:49 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79789, total=500000.
+2025-06-05 19:14:49 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:14:52 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79790, total=500000.
+2025-06-05 19:14:52 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:14:55 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79789, total=500000.
+2025-06-05 19:14:55 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:14:59 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:15:02 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79790, total=500000.
+2025-06-05 19:15:02 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:15:05 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79789, total=500000.
+2025-06-05 19:15:05 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:15:05 | WARNING | logger:emit:13 - Received SIGINT signal
+2025-06-05 19:15:05 | INFO | logger:emit:13 - Polling stopped for bot @GatesAutoBuyerBot id=7309807688 - 'Gates Gift-Buyer'
+2025-06-05 19:15:05 | INFO | logger:emit:13 - Polling stopped
+2025-06-05 19:15:23 | INFO | main:main:38 - Starting bot...
+2025-06-05 19:15:23 | INFO | main:on_startup:25 - Initializing database...
+2025-06-05 19:15:23 | INFO | main:on_startup:27 - Database initialized successfully
+2025-06-05 19:15:23 | INFO | main:on_startup:30 - Starting gift parsing loop...
+2025-06-05 19:15:23 | INFO | logger:emit:13 - Start polling
+2025-06-05 19:15:23 | INFO | logger:emit:13 - Run polling for bot @GatesAutoBuyerBot id=7309807688 - 'Gates Gift-Buyer'
+2025-06-05 19:15:23 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79788, total=500000.
+2025-06-05 19:15:23 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:15:26 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79789, total=500000.
+2025-06-05 19:15:26 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:15:30 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=79787, total=500000.
+2025-06-05 19:15:30 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:15:32 | INFO | logger:emit:13 - Update id=701457805 is handled. Duration 212 ms by bot id=7309807688
+2025-06-05 19:15:33 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:15:36 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:15:36 | INFO | logger:emit:13 - Update id=701457806 is handled. Duration 211 ms by bot id=7309807688
+2025-06-05 19:15:40 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 19:15:40 | WARNING | logger:emit:13 - Received SIGINT signal
+2025-06-05 19:15:40 | INFO | logger:emit:13 - Polling stopped for bot @GatesAutoBuyerBot id=7309807688 - 'Gates Gift-Buyer'
+2025-06-05 19:15:40 | INFO | logger:emit:13 - Polling stopped
+2025-06-05 23:55:21 | INFO | main:main:38 - Starting bot...
+2025-06-05 23:55:21 | INFO | main:on_startup:25 - Initializing database...
+2025-06-05 23:55:21 | INFO | main:on_startup:27 - Database initialized successfully
+2025-06-05 23:55:21 | INFO | main:on_startup:30 - Starting gift parsing loop...
+2025-06-05 23:55:21 | INFO | logger:emit:13 - Start polling
+2025-06-05 23:55:21 | INFO | logger:emit:13 - Run polling for bot @GatesAutoBuyerBot id=7309807688 - 'Gates Buyer'
+2025-06-05 23:55:21 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=78635, total=500000.
+2025-06-05 23:55:21 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:55:25 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:55:28 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:55:31 | INFO | logger:emit:13 - Update id=701457807 is handled. Duration 273 ms by bot id=7309807688
+2025-06-05 23:55:31 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:55:33 | INFO | logger:emit:13 - Update id=701457808 is handled. Duration 88 ms by bot id=7309807688
+2025-06-05 23:55:34 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:55:34 | INFO | logger:emit:13 - Update id=701457809 is handled. Duration 552 ms by bot id=7309807688
+2025-06-05 23:55:38 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:55:41 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:55:44 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:55:47 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:55:51 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:55:54 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=78632, total=500000.
+2025-06-05 23:55:54 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:55:57 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=78635, total=500000.
+2025-06-05 23:55:57 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:56:00 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=78632, total=500000.
+2025-06-05 23:56:00 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:56:04 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:56:07 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:56:10 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:56:13 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:56:16 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:56:20 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:56:23 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:56:26 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:56:29 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:56:32 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:56:36 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:56:39 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:56:42 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=78628, total=500000.
+2025-06-05 23:56:42 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:56:45 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:56:48 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:56:51 | ERROR | gifts:send_gift:171 - Gift sending error: Bad Request: user not found
+2025-06-05 23:56:51 | WARNING | buy_gift:process_gift_payment:123 - Error sending gift 5170233102089322756 to user 1023498482.
+2025-06-05 23:56:51 | INFO | logger:emit:13 - Update id=701457810 is handled. Duration 1442 ms by bot id=7309807688
+2025-06-05 23:56:52 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:56:55 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:56:58 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:57:01 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:57:05 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:57:08 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:57:11 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:57:14 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:57:18 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:57:18 | INFO | logger:emit:13 - Update id=701457811 is handled. Duration 89 ms by bot id=7309807688
+2025-06-05 23:57:21 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:57:24 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:57:25 | INFO | logger:emit:13 - Update id=701457812 is handled. Duration 74 ms by bot id=7309807688
+2025-06-05 23:57:27 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:57:28 | INFO | logger:emit:13 - Update id=701457813 is handled. Duration 127 ms by bot id=7309807688
+2025-06-05 23:57:31 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=78624, total=500000.
+2025-06-05 23:57:31 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:57:34 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:57:37 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:57:40 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:57:44 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:57:47 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:57:50 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:57:53 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:57:56 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:58:00 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:58:03 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=78623, total=500000.
+2025-06-05 23:58:03 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:58:06 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=78624, total=500000.
+2025-06-05 23:58:06 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:58:09 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:58:13 | INFO | gift_parser:start_gift_parsing_loop:121 - Updated gift data 5782984811920491178: price=350, remaining=78623, total=500000.
+2025-06-05 23:58:13 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:58:16 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:58:19 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:58:22 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:58:26 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:58:29 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:58:32 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:58:35 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:58:38 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:58:42 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:58:45 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:58:48 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:58:51 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:58:55 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:58:58 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:59:01 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:59:04 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:59:08 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:59:11 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:59:14 | INFO | gift_parser:start_gift_parsing_loop:139 - Gift list successfully updated in the database.
+2025-06-05 23:59:16 | WARNING | logger:emit:13 - Received SIGINT signal
+2025-06-05 23:59:16 | INFO | logger:emit:13 - Polling stopped for bot @GatesAutoBuyerBot id=7309807688 - 'Gates Buyer'
+2025-06-05 23:59:16 | INFO | logger:emit:13 - Polling stopped
